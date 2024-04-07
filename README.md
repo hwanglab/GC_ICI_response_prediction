@@ -11,7 +11,7 @@ Please check out our AACR poster [https://www.hwanglab.org/aacr2024_dgp]
 2. Cutajar, K et al. Random Feature Expansions for Deep Gaussian Processes, ICML 2017
 3. Gia-Lac T et al. Calibrating Deep Convolutional Gaussian Processes, AISTATS 2019
 4. Kim ST et al. Comprehensive molecular characterization of clinical responses to PD-1 inhibition in metastatic gastric cancer. Nat Med. 2018 (PMID: 30013197)
-5 . Chida K et al. Transcriptomic Profiling of MSI-H/dMMR Gastrointestinal Tumors to Identify Determinants of Responsiveness to Anti-PD-1 Therapy. Clin Cancer Res. 2022 (PMID: 35254400)
+5. Chida K et al. Transcriptomic Profiling of MSI-H/dMMR Gastrointestinal Tumors to Identify Determinants of Responsiveness to Anti-PD-1 Therapy. Clin Cancer Res. 2022 (PMID: 35254400)
 6. Kwon M et al. Determinants of Response and Intrinsic Resistance to PD-1 Blockade in Microsatellite Instability-High Gastric Cancer. Cancer Discov. 2021  (PMID: 33846173).
 7. Park S et al. An integrative somatic mutation analysis to identify pathways linked with survival outcomes across 19 cancer types. Bioinformatics. 2016 (PMID: 26635139)
 8. Cheong JH et al,. Development and validation of a prognostic and predictive 32-gene signature for gastric cancer. Nat Commun. 2022 (PMID: 35140202)
